@@ -1,0 +1,33 @@
+
+#board {
+    height: 100%;
+    padding: 0;
+}
+
+#leftSide {
+    position: absolute;
+    top: 2%;
+    left: 1%;
+    bottom: 2%;
+    width: 40%;
+    display: block;
+    background-color: #8FAEE7;
+    background-image: url("../../assets/game-back.png");
+    background-size: 300px 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#rightSide {
+    position: absolute;
+    top: 2%;
+    left: 50%;
+    bottom: 2%;
+    width: 40%;
+    display: block;
+    background-color: #8FAEE7;
+    background-image: url("../../assets/game-back.png");
+    background-size: 300px 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+}

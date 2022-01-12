@@ -1,0 +1,24 @@
+.formBoard_verify {
+    width: 500px;
+    padding: 50px!important;
+    margin-top: 15vh;
+    background-color: white;
+    text-align: center;
+}
+
+.btn_verify {
+    color: lightblue!important;
+}
+
+.footer_verifyEmail {
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.btn_verify_again {
+    border: 1px solid brown;
+}
+
+.verifyemail_footer {
+    font-size: 20px;
+}

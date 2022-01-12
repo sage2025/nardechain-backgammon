@@ -1,0 +1,24 @@
+.SubBar {
+    background-color: rgb(230, 232, 247);
+    background-image: linear-gradient(0, rgb(220, 220, 220), rgb(230, 232, 247));
+    height: 70px;
+    width: 100%;
+    padding: 0;
+}
+
+.navitem {
+    color: rgb(50, 8, 144)!important;
+}
+
+.navitem .active {
+    background-color: rgb(235, 237, 250)!important;
+    color: rgb(50, 8, 144)!important;
+}
+Nav {
+    padding: 0;
+}
+
+.strong {
+    color: rgb(50, 8, 144);
+    font-size: 20px;
+}

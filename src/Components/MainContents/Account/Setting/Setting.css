@@ -1,0 +1,63 @@
+.account_main {
+    background-color: white!important;
+    margin-bottom: 20px;
+    border: 1px solid pink;
+    margin-top: 5%;
+}
+
+.input_setting {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.label_account {
+    font-size: 20px;
+    color: #8FAEE7;
+}
+
+.label_link_account {
+    font-size: 20px;
+    color: #6C50FA;
+    margin-left: 30px;
+}
+
+.input_account {
+    height: 8vh;
+    background-color: #F1F5FF;
+    border-radius: 10px;
+    border: 0;
+    font-size: 20px;
+}
+
+.input_group_account {
+    margin-top: 3%;
+}
+
+.btn_savechange_account {
+    background-color: #6C50FA;
+    color: white;
+    width: 20%;
+    height: 70px;
+    border-radius: 20px;
+}
+
+.icon {
+    padding-top: 20px;
+    padding-left: 10px;
+    color: #8FAEE7;
+    min-width: 30px;
+    position: absolute;
+}
+
+.input-icons > input {
+    padding-left: 40px;
+}
+
+::placeholder {
+    color: #8FAEE7;
+    opacity: 0.5; /* Firefox */
+}
+
+.select2 {
+    padding-left: 40px;
+}

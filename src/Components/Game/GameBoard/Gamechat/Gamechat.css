@@ -1,0 +1,9 @@
+#chat-panel {
+    overflow-y: auto;
+    max-height: 200px!important;
+    /* width: 300px!important; */
+}
+
+.input-group-text {
+    padding: 0;
+}

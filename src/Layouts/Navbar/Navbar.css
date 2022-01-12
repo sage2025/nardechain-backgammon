@@ -1,0 +1,18 @@
+.topbar {
+    background-color: #F1F5FF!important;
+    width: 100%!important;
+    height: 5%!important;
+    position: fixed;
+    top: 0;
+}
+
+.authbar {
+    float: right!important;
+    right: 0!important;
+    top: 0px !important;
+}
+
+.items {
+    color: white!important;
+    font-size: 30px;
+}

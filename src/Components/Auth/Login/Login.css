@@ -1,0 +1,121 @@
+.board {
+    background-color: rgb(241, 245, 255);
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    position: fixed;
+}
+.loginBoard {
+    width: 500px;
+    padding: 50px!important;
+    margin-top: 15vh;
+    background-color: white;
+}
+
+.toplabel {
+    font-weight: 700;
+    color: rgb(38, 22, 98);
+}
+
+.label_welcome {
+    color: rgb(70, 120, 221);
+    text-align: left;
+    font-size: 14px;
+}
+
+.label_forgot {
+    text-align: right!important;
+    float: right!important;
+    font-size: 14px;
+    margin-left: 40%;
+} 
+
+.input_email {
+    width: 100%!important;
+    font-family: "FontAwesome"; 
+    background-color: rgb(241, 245, 255);
+    padding-left: 40px;
+}
+
+.input_pass {
+    width: 100%!important;
+    background-color: rgb(241, 245, 255);
+    padding-left: 40px;
+}
+
+.btn_login {
+    background-color: white!important;
+    color:rgb(224, 224, 223);
+    border: 2px solid rgb(224, 224, 224);
+    width: 50%;
+    height: 50px;
+}
+
+.label_below {
+    color: rgb(143, 174, 241);
+    font-size: 13px;
+}
+
+.line {
+    color: rgba(70, 120, 221, 0.4);
+    font-weight: 500;
+    margin-bottom: -20px!important;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.label_footer {
+    font-size: 15px;
+}
+
+.icon_auth {
+    padding-left: 10px;
+    color: #8FAEE7;
+    min-width: 10px;
+    position: absolute;
+    font-size: 20px;
+}
+
+.metamask {
+    background-color: rgb(247, 145, 29);
+    color: white;
+    font-weight: 700!important;
+    border-radius: 20px;
+}
+
+.walletconn {
+    background-color: rgb(89, 166, 249);
+    color: white;
+    font-weight: 700!important;
+    border-radius: 20px;
+}
+
+.portis {
+    background-color: rgb(107, 175, 211);
+    color: white;
+    font-weight: 700!important;
+    border-radius: 20px;
+}
+
+.torus {
+    background-color: rgb(3, 100, 255);
+    color: white;
+    font-weight: 700!important;
+    border-radius: 20px;
+}
+
+.arkane {
+    background-color: rgb(233, 82, 97);
+    color: white;
+    font-weight: 700!important;
+    border-radius: 20px;
+}
+
+.wallet_avatar {
+    width: 10%!important;
+}
+
+.wallet_label {
+    width: 85%!important;
+}

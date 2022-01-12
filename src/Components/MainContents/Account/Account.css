@@ -1,0 +1,37 @@
+
+.close {
+    background-color: rgb(18, 46, 255);
+}
+
+
+.nav.nav-tabs .nav-link {
+    width: 100%;
+    float: auto;
+}
+
+.nav.nav-tabs .nav-link.setting_account {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    font-size: 15px;
+    height: 40px;
+    padding: 0;
+    width: 100px;
+    color: #8FAEE7;
+}
+
+.nav.nav-tabs .nav-link.profile_account {
+    font-size: 15px;
+    height: 40px;
+    width: 100px;
+    color: #8FAEE7;
+}
+
+.nav.nav-tabs .nav-link.board_account {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 15px;
+    height: 40px;
+    padding: 0;
+    width: 100px;
+    color: #8FAEE7;
+}

@@ -1,0 +1,53 @@
+.myClass ul > li > a {
+    background-color: gray!important;
+    color: white;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    border: 10px;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    background: #4678DD;
+    color: white!important;
+    border: 0;
+}
+
+.nav.nav-tabs .nav-link {
+    color: #8FAEE7;
+    font-size: 15px;
+    height: 40px;
+    width: 300px;
+    padding-top: 10px;
+}
+
+.nav.nav-tabs .nav-link.upcoming {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    font-size: 15px;
+    height: 40px;
+    padding: 0;
+    width: 300px;
+    color: #8FAEE7;
+    padding-top: 10px;
+    
+}
+
+.nav.nav-tabs .nav-link.finished {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 15px;
+    height: 40px;
+    padding: 0;
+    width: 300px;
+    color: #8FAEE7;
+    padding-top: 10px;
+}
+
+.nav.nav-tabs .nav-link.tab_right_tour {
+    /* margin-left: 1000px!important; */
+    right: 1%;
+    float: right;
+    position: fixed;
+    width: 25%;
+    background-color: white;
+}

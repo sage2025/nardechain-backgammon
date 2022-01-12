@@ -1,0 +1,18 @@
+.react-bootstrap-table-pagination-total {
+    font-size: 15px;
+}
+
+.react-bs-table-sizePerPage-dropdown {
+    font-size: 15px;
+}
+
+.react-bootstrap-table-page-btns-ul {
+    height: 10px;
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.tour_table_open {
+    background-color: #6C50FA;
+    color: white;
+}

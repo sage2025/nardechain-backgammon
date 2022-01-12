@@ -1,0 +1,56 @@
+.img_tour {
+    width: 100%;
+    height: 300px;
+    opacity: 0.8;
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://nardechain.io/play/Assets/Coin/BuyCoins/aboutus.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    padding-top: 100px;
+}
+
+.title_tour {
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.btn_buy_coins_tour {
+    background-color: rgb(18, 46, 255);
+    color: white;
+    margin-top: -100px!important;
+    float: right;
+    height: 50px;
+}
+
+/* real */
+.elearn_label {
+    color: rgb(144, 65, 65);
+    
+}
+
+.fa-coins {
+    color: gold;
+    margin-right: 10px;
+}
+
+.btn_tour {
+    width: 80px; 
+    height: 80px; 
+    border-radius: 40px; 
+    font-size: 40px; 
+    text-align: center; 
+    background-color: rgb(144, 65, 65);
+    color: white;
+    border: 5px solid rgb(200, 200, 200);
+    
+}
+
+.arrow {
+    color: rgb(144, 65, 65);
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 50px;
+    height: 20px;
+}

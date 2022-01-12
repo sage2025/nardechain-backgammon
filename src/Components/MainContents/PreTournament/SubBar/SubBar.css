@@ -1,0 +1,21 @@
+.searchbar_tour {
+    background-color: rgb(255, 255, 255);
+    height: 70px;
+    width: 100%;
+    justify-content: right!important;
+}
+
+.input_player_tour {
+    border-radius: 30px;
+    float: left;
+    width: 60%!important;
+}
+
+.createGM_tour {
+    background-color: #4678DD;
+    color: white!important;
+    margin-left: -20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+

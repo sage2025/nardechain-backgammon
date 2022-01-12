@@ -1,0 +1,36 @@
+.tour_table {
+    position: fixed;
+    top: 15%;
+    left: 15%;
+    right: 0;
+    width: 85%;
+    height: 80%;
+    max-height: 600px;
+    overflow-y: auto;
+    background-color: rgb(239, 242, 253);
+}
+
+th {
+    font-size: 15px;
+    color: #4678DD;
+    width: inherit;
+}
+
+.react-bootstrap-table-pagination-total {
+    font-size: 15px;
+}
+
+.react-bs-table-sizePerPage-dropdown {
+    font-size: 15px;
+}
+
+.react-bootstrap-table-page-btns-ul {
+    height: 10px;
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.flags {
+    width: 40px;
+    height: 20px;
+}

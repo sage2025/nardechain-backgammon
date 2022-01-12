@@ -1,0 +1,23 @@
+.btn_card {
+    background-color: rgb(144, 65, 65);
+    width: 80%;
+    height: 45px;
+    color: white;
+}
+
+.text_card {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.card-image {
+    background-image: url('https://nardechain.io/play/Assets/Coin/BuyCoins/aboutus.png');
+    background-size: cover;
+    height: 200px;
+    color: white;
+}
+
+.title_card {
+    margin-top: 15%;
+}

@@ -1,0 +1,19 @@
+.nav.nav-tabs .nav-link.matchlist {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    font-size: 15px;
+    height: 40px;
+    padding: 0;
+    width: 300px;
+    color: #8FAEE7;
+}
+
+.nav.nav-tabs .nav-link.running {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 15px;
+    height: 40px;
+    padding: 0;
+    width: 300px;
+    color: #8FAEE7;
+}

@@ -1,0 +1,56 @@
+html body {
+    /* padding-top: 60px; */
+    /* padding-bottom: 40px; */
+    min-height: 100%;
+    height: 100%;
+    margin: 0;
+    overflow: auto;
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+    /* width: 0px; */
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.content{
+    z-index: 1;
+    width: 78%;
+    position: fixed;
+    left: 21%;
+    right: 1%;
+    bottom: 2%;
+    top:10%;
+    padding: 20px;
+    max-height: 98%;
+    overflow-y: auto;
+    background-color: rgb(255, 255, 253);
+}
+
+.backgammon {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #F1F5FF;
+    /* height: 1000px; */
+    position: fixed;
+}
+/* ::-webkit-scrollbar {
+    width: 0px;
+} */
+
+@media screen and (max-width: 1400px) {
+    .content {
+        position: relative;
+        width: 100%;
+        left: 0;
+    }
+    .backgammon {
+        position: relative;
+    }
+}

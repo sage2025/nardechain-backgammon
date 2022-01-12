@@ -1,0 +1,62 @@
+.home {
+    overflow: scroll;
+    overflow-y: auto;
+    width: 100%;
+}
+
+::-webkit-scrollbar {
+    /* width: 0px; */
+}
+.img_home {
+    width: 100%;
+    height: 700px;
+    opacity: 0.8;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url('https://nardechain.io/play/Assets/Coin/BuyCoins/aboutus.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    padding-top: 300px;
+}
+
+.title_home {
+    color: white;
+    font-weight: 800;
+}
+
+.btn_becomemem_home {
+    background-color: rgb(144, 1, 0);
+}
+
+.subtitle_home {
+    color: white;
+    font-weight: 100;
+}
+
+.exp_left_home {
+    text-align: left;
+    padding: 20px;
+    width: 60%;
+}
+
+.exp_left_label {
+    font-size: 20px;
+    
+}
+
+.exp_right {
+    width: 40%;
+}
+
+.img_dubai {
+    width: 80%;
+    height: 200px;
+}
+
+.btn_buy_coins_home {
+    background-color: rgb(18, 46, 255);
+    color: white;
+    margin-top: -300px;
+    float: right;
+    height: 50px;
+}

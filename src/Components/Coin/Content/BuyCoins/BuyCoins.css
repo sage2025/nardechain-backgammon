@@ -1,0 +1,30 @@
+.buycoins {
+    background-color: rgb(232, 234, 255);
+    width: 100%;
+}
+
+.img_tranaction {
+    padding: 30px;
+    width: 100%;
+}
+
+.coin_label_header {
+    color: rgb(47, 45, 175);
+    font-weight: 700;
+}
+
+.coin_label {
+    color: rgb(47, 45, 175);
+}
+
+.btn_cash_out {
+    background-color: rgb(18, 46, 255);
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.cash_out {
+    width: 20%;
+    height: 80px;
+}

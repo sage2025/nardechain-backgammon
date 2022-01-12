@@ -1,0 +1,17 @@
+.nav.nav-tabs .nav-link.rating {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    font-size: 15px;
+    height: 40px;
+    width: 300px;
+    color: #8FAEE7;
+}
+
+.nav.nav-tabs .nav-link.experience {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 15px;
+    height: 40px;
+    width: 300px;
+    color: #8FAEE7;
+}

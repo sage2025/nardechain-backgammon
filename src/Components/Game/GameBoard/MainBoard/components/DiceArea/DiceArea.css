@@ -1,0 +1,19 @@
+.diceArea {
+    position: absolute;
+    top: 45%;
+    height: 10%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .back-img {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+  }
+

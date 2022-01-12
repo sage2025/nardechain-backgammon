@@ -1,0 +1,70 @@
+.splash-container {
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    /* min-height: 900px; */
+    width: 100%;
+    padding: 10rem 0;
+    z-index: -1;
+    position: fixed;
+    height: 100%;
+    overflow-y: auto;
+}
+
+.user-avatar {
+    background-color: #261662;
+    border-radius: 50%;
+}
+
+.vs-img {
+    max-height: 200px;
+}
+
+.username {
+    color: white;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+.user-level {
+    font-size: 18px;
+    color: #6C50FA;
+    font-weight: bold;
+}
+
+.stake-panel {
+    border: 4px solid #261662;
+    background: radial-gradient(45.83% 45.83% at 60.84% 62.5%, #3F4869 0%, #18144D 39.06%, #000000 100%);
+    box-sizing: border-box;
+    box-shadow: inset 0px 16px 10px rgba(45, 36, 156, 0.5);
+    border-radius: 10px;
+}
+
+#stake-label {
+    color: white;
+    display: inline-flex;
+    padding-top: 1.3rem;
+    font-weight: bold;
+}
+#coin-box {
+    float: left;
+    height: 120px;
+    margin-top: -40px;
+}
+#coin {
+    float: right;
+    width: 100px;
+}
+
+.spinner-panel {
+    margin-top: 2rem;
+}
+
+#game-spinner {
+    font-size: 10px;
+    width: 20px;
+    height: 20px;
+}
+
+#prepare-label {
+    color: white;
+    font-size: 15px;
+}

@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .header {
+    background-color: #f1f1f1;
+    text-align: center;
+  }
+  
+  .navbar_coin {
+    overflow: hidden;
+    background-color: #fff;
+    padding: 0;
+  }
+
+  .nav_items {
+    padding: 0;
+  }
+  
+  .disappear {
+    display: none;
+  }
+
+  .navbar_coin a {
+    float: right;
+    display: block;
+    color: rgb(120, 108, 108);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 700;
+    padding-left: 5px;
+  }
+  
+  .navbar_coin a:hover {
+    color: rgb(144, 65, 65);
+  }
+  
+  .navbar_coin a.active {
+    background-color: rgb(144, 65, 65);
+    color: white;
+  }
+  
+
+  
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding-top: 30px;
+  }
+
+  .top_sticky_lable{
+      font-size: 18px;
+  }
+
+  .nav_auth {
+      font-size: 18px;
+  }
+
+  .fa-shopping-cart {
+      font-size: 15px;
+  }
+
+  .btn_buy_coins {
+    background-color: rgb(18, 46, 255);
+
+  }
+
+  .tour_items {
+    background-color: rgb(144, 1, 0);
+  }
+
+  .tour_letter {
+    color: white!important;
+    font-size: 10px;
+  }
+
+  .tour_letter:hover {
+    color: red!important;
+  }

@@ -1,0 +1,27 @@
+.contact_us {
+    color: white;
+    padding: 20px;
+}
+
+.footer_parts {
+    width: 15%;
+    color: white;
+    text-align: left;
+    padding: 10px;
+}
+
+.footer_labels {
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.footer_parts_submit {
+    width: 40%;
+    color: white;
+    text-align: left;
+    padding: 10px;
+}
+
+.footer_parts_submit_input {
+    height: 30px;
+}
