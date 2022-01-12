@@ -36,6 +36,7 @@ const SearchBar = (props) => {
         socket.emit('nardechain', {room: "nardechain", account: props.item.account}, (error) => {
             console.log('');
         }); 
+        
         authService.getCurrentUser(props.item.account)
             .then(res => {
                 if(res.data?.user?.username === '' || res.data?.user?.username === undefined)
